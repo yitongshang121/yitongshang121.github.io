@@ -4,6 +4,7 @@ layout: page
 
 # About Me
 
+<img src="https://eveshang.github.io/caihanlin.jpg" class="floatpic" width="360" height="480">
 
 Welcome to my website!
 
