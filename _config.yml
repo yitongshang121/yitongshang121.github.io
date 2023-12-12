@@ -38,12 +38,8 @@ owner:
 links:
   - title: Home
     url: /
-  - title: Publications
-    url: /publications/
-  # - title: Awards
-  #   url: /awards/
-  # - title: Teams
-  #   url: /teams/
+  - title: Research
+    url: /research/
   - title: Hobbies
     url: /hobbies/
   # - title: Notes
