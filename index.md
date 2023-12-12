@@ -4,9 +4,12 @@ layout: page
 
 # About Me
 
+
 Welcome to my website!
 
 I'm a senior undergraduate student from [Nankai University School of Finance](http://en.finance.nankai.edu.cn/). My research interest includes empirical asset pricing, machine learning, and banking.
+
+I am going to be a PhD student at [CUHK Economics](https://www.econ.cuhk.edu.hk/econ/en-gb/).
 
 <br>
 
