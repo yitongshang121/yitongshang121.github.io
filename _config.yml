@@ -40,12 +40,11 @@ links:
     url: /
   - title: Research
     url: /research/
+  # - title: Teaching
+  #   url: /teaching/
   - title: Hobbies
     url: /hobbies/
-  # - title: Notes
-    # url: /notes/
-  # - title: Blogs
-  #   url: /blogs/
+    
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
