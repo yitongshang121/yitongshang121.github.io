@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://eveshang.github.io/和鸭子.jpg" class="floatpic" width="500" height="480">
+<img src="https://eveshang.github.io/和鸭子.jpg" class="floatpic" width=700" >
 
 Welcome to my website!
 
