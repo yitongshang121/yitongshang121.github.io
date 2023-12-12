@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /notes/index.html
-title: Notes
+permalink: /teaching/index.html
+title: Teaching
 ---
 
 ## Paper Notes
