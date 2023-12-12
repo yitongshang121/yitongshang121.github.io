@@ -4,13 +4,9 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+Welcome to my website!
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
-
-I am a senior student majoring in **EECS** at Fuzhou University and Maynooth University (Ireland, combined degrees). Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University.
-
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+I'm a senior undergraduate student from [Nankai University School of Finance](http://en.finance.nankai.edu.cn/). My research interest includes empirical asset pricing, machine learning, and banking.
 
 <br>
 
@@ -22,18 +18,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Sep 2020 - June 2024:** Maynooth University (BSc)
 - **June 2022 - Nov 2022:** Cambridge University (Exchange)
 - Expect to apply for a one-year Mphil program and graduate in Sep 2025. Looking for PhD position after that.
-
-<br>
-
----
-
-## Research Interests
-
-- Industrial IoT System
-- Network Cybersecurity
-- Applied Machine Learning
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 <br>
 
