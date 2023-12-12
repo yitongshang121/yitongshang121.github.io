@@ -4,7 +4,7 @@ permalink: /research/index.html
 title: Research
 ---
 
-Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+Lastest Update: 13rd Dec 2023&nbsp;
 
 ## Conference Paper
 
