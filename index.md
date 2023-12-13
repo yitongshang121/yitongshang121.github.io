@@ -14,9 +14,7 @@ I am going to be a research postgraduate at [CUHK Economics](https://www.econ.cu
 
 <br>
 
-## Academic Background
-
-**<font color='red'>[Highlight]</font> Looking for a part-time RA related to finance or economics.**
+## Education
 
 - **Sep 2024 - Future:** Chinese University of Hong Kong (MPhil-PhD in Economics)
 - **Sep 2020 - June 2024:** Nankai University (Bachelor of Economics)
