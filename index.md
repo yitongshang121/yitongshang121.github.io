@@ -8,24 +8,13 @@ layout: page
 
 Welcome to my website!
 
-I'm a senior undergraduate student from [Nankai University School of Finance](http://en.finance.nankai.edu.cn/). My research interest includes empirical asset pricing, machine learning, and banking.
-
-I am going to be a research postgraduate at [CUHK Economics](https://www.econ.cuhk.edu.hk/econ/en-gb/).
+I'm a research postgraduate student at the Department of Economics, Chinese University of Hong Kong. Before joining CUHK, I obtained my Bachelor's degree in Economics with honors at the School of Finance, Nankai University. My research interests include asset pricing, machine learning, and financial econometrics.
 
 <br>
 
 ## Education
 
-- **Sep 2024 - Future:** Chinese University of Hong Kong (MPhil-PhD in Economics)
-- **Sep 2020 - June 2024:** Nankai University (Bachelor of Economics)
+- **Starting from Sep 2024:** Chinese University of Hong Kong (MPhil-PhD in Economics)
+- **Sep 2020 - June 2024:** Nankai University (Finance Scholars Program)
 
 <br>
-
----
-
-## News and Updates
-
-- **Nov 2023：**Happy to be admitted by CUHK Economics.
-
-<br>
-
