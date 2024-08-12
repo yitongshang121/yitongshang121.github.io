@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://eveshang.github.io/和鸭子.jpg" class="floatpic">
+<img src="/images/graduation_zip.jpg" class="floatpic">
 
 Welcome to my website!
 
