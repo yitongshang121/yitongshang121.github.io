@@ -4,38 +4,10 @@ permalink: /research/index.html
 title: Research
 ---
 
-Lastest Update: 13rd Dec 2023&nbsp;
+Latest Update: Aug 2024&nbsp;
 
-## Conference Paper
+## Working Paper
 
-- [BLEGuard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://www.researchgate.net/publication/373902807_BLEGuard_Hybrid_Detection_Mechanism_for_Spoofing_Attacks_in_Bluetooth_Low_Energy_Networks_Student_Abstract)<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence (AAAI 2024)<br>(Under Review) Vancouver, Canada. February, 2024.
-
-- [Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model](https://www.researchgate.net/publication/374730865)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
-
-  <br>
-
-## Journal Paper
-
-- Coming soon... 🚀
-
-  <br>
-
-## Working Manuscript
-
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>Sensors Journal (IF: 3.847). Under major modification.<br>
-
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>The 5th International Conference on Modeling, Simulation, Optimization and Algorithm. Under working.
-
-  <br>
-
----
-
-## Undergraduate Thesis
-
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project. Under working<br>Expect to submit a research paper to IEEE Internet of Things Journal.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Intern Program for Junior.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/info/1023/2571.htm)<br>
+- [Direction is more important than speed: A comparison of direction and value prediction of stock returns]<br>[Tingting Cheng](https://sites.google.com/site/tingtingcheng2014/home), Yitong Shang, [Albert Bo Zhao](https://abzhaobo.github.io/)<br>Presented at Shanghai Jiao Tong University ACEM<br>A major research task in asset pricing is predicting the value of future stock returns. We examine a seemingly simpler and yet less explored task—predicting the direction of future stock returns. Theoretically, a simple model in Christoffersen and Diebold (2006) suggests that direction prediction is closely related to the widely recognized volatility clustering effect. Empirically, we compare the direction and value prediction of the S&P500 excess returns via a variety of models, including linear, regularized linear, machine learning, and combination methods. The general findings indicate that for a typical investor, direction prediction generates greater economic gains than value prediction does because of the information embedded in volatility and higher moments of returns. From the models’ perspectives, while machine learning and combination methods can enhance both direction and value prediction, the enhancement is more significant in the realm of direction prediction, and the predictive power stems from the volatility mechanism. Additional analyses suggest that value and direction prediction share similar stock market risk factors.
 
   <br>
