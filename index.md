@@ -14,7 +14,7 @@ I'm a research postgraduate student at the Department of Economics, Chinese Univ
 
 ## Education
 
-- **Starting from Sep 2024:** Chinese University of Hong Kong (MPhil-PhD in Economics)
 - **Sep 2020 - June 2024:** Nankai University (Finance Scholars Program)
+- **Starting from Sep 2024:** Chinese University of Hong Kong (MPhil-PhD in Economics)
 
 <br>
