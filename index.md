@@ -15,4 +15,10 @@ I'm a research postgraduate student at the Department of Economics, Chinese Univ
 - **Sep 2020 - June 2024:** Nankai University (Finance Scholars Program)
 - **Starting from Sep 2024:** Chinese University of Hong Kong (MPhil-PhD in Economics)
 
+## Honors & Awards
+
+- **Dec 2021:** National Scholarship, Ministry of Education of the People's Republic of China
+- **Jun 2024:** University-Level Outstanding Bachelor Thesis， Nankai University
+- **Aug 2024:** Postgraduate Studentship, CUHK
+
 <br>
