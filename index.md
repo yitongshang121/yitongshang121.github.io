@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://yitongshang121.github.io/graduation_zip.jpg" class="floatpic"> 
+<img src="https://yitongshang121.github.io/graduation.jpg" class="floatpic"> 
 
 Welcome to my website!
 
