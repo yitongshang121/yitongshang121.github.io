@@ -18,11 +18,3 @@ _Presented at Shanghai Jiao Tong University ACEM_
 
 <br>
 
-## Work in Progress
-
-**Stock Return Direction and Idiosyncratic Volatility Puzzle**
-<br>
-With [Tingting Cheng](https://sites.google.com/site/tingtingcheng2014/home), [Albert Bo Zhao](https://abzhaobo.github.io/)
-
-<br>
-
