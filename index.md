@@ -5,9 +5,7 @@ layout: page
 <img src="/images/graduation.jpg" class="floatpic"> 
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-Welcome to my website!
-
-I'm a research postgraduate student at the Department of Economics, Chinese University of Hong Kong. Before joining CUHK, I obtained my Bachelor's degree in Economics with honors at the School of Finance, Nankai University. My research interests include asset pricing, machine learning, and financial econometrics.
+Welcome! I'm a research postgraduate student at the Department of Economics, Chinese University of Hong Kong. Before joining CUHK, I obtained my Bachelor's degree in Economics with honors at the School of Finance, Nankai University. My research interests include asset pricing, machine learning, and financial econometrics.
 </p>
 
 ## Education
