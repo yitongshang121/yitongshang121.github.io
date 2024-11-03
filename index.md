@@ -2,8 +2,6 @@
 layout: page
 ---
 
-# About Me
-
 <img src="/images/graduation.jpg" class="floatpic"> 
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
