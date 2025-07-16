@@ -5,12 +5,12 @@ layout: page
 <img src="/images/graduation.jpg" class="floatpic"> 
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-Welcome! I'm a research postgraduate student at the Department of Economics, Chinese University of Hong Kong. Before joining CUHK, I obtained my Bachelor's degree in Economics with honors from the School of Finance, Nankai University. My research interests include asset pricing, applied econometrics, and macro-finance.
+Welcome! I am currently a research postgraduate at the Chinese University of Hong Kong. I earned a Bachelor's degree in Economics (Finance Scholars Program) with honors from the School of Finance, Nankai University. My research interests include asset pricing, behavioral economics, and macro-finance.
 </p>
 
 ## Education
 
-- **Starting from Sep 2024:** Chinese University of Hong Kong (MPhil-PhD in Economics)
+- **Starting from Sep 2024:** Chinese University of Hong Kong (MPhil-PhD Program in Economics)
 - **Sep 2020 - June 2024:** Nankai University (Finance Scholars Program)
 
 ## Honors & Awards
