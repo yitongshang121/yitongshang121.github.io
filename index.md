@@ -10,8 +10,8 @@ Welcome! I am currently a research postgraduate at the Chinese University of Hon
 
 ## Education
 
-- **Starting from Sep 2024:** Chinese University of Hong Kong (MPhil-PhD Program in Economics)
-- **Sep 2020 - June 2024:** Nankai University (Finance Scholars Program)
+- **Starting from Sep 2024:** The Chinese University of Hong Kong (MPhil-PhD Program in Economics)
+- **Sep 2020 - June 2024:** Nankai University, School of Finance (Finance Scholars Program)
 
 ## Honors & Awards
 
