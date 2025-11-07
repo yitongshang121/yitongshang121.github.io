@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/index.html
+permalink: /presentation/index.html
 title: Presentation
 ---
 
