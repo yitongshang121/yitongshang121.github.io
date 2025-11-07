@@ -5,9 +5,9 @@ layout: page
 <img src="/images/econ_portrait.jpg" class="floatpic"> 
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-Welcome! I am currently a research postgraduate student in Economics at the Chinese University of Hong Kong.
+Welcome! I am currently a research postgraduate student in Economics at the Chinese University of Hong Kong.  
   
-Before coming to CUHK, I earned my Bachelor's in Economics (Finance Scholars Program) with honors from the School of Finance, Nankai University. My research interests include Macro Finance, Financial Intermediation, Banking, Behavioral Economics, and Corporate Finance.
+Before coming to CUHK, I earned my Bachelor's in Economics (Finance Scholars Program) with honors from the School of Finance, Nankai University. My current research interests include Macro Finance, Financial Intermediation, Banking, Behavioral Economics, and Corporate Finance.
 </p>
 
 ## Education
