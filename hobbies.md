@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /hobbies/index.html
-title: Hobbies
+permalink: /hobby/index.html
+title: Hobby
 ---
 
-# Hobbies
+# Hobby
 
 ## Music
 
