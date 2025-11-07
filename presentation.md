@@ -4,7 +4,7 @@ permalink: /presentation/index.html
 title: Presentation
 ---
 
-## Presentations
+## Presentation
 
 - 1
 - 2
