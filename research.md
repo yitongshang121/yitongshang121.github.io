@@ -14,6 +14,8 @@ With Jinoug Jeung, Abinash Pati
 <br>
 <font size=2><p style="line-height: 1.2;"><p style="text-align:justify; text-justify:inter-ideograph;">This paper examines how commercial banks, as marginal investors in the bank-qualified municipal bond market, transmit interest rate risk exposures to bond yields. Preferential tax treatment incentivizes state-specific bank holdings, segmenting marginal investors across states and creating cross-state and temporal variation in exposures. We find that heightened exposures, measured by earnings-based income gaps, raise yields, with effects amplifying during monetary tightening---especially unexpected rate hikes. Deposit market power and derivatives hedging attenuate transmission. Comparisons with valuation-based repricing/maturity gaps reveal regime-specific channels: earnings risks dominate in tightening regimes, valuation risks in easing ones. Results highlight intermediary risk spillovers, with implications for local government financing.</p></p></font>
 
+<br>
+
 **Direction is more important than speed: A comparison of direction and value prediction of stock returns**
 <br>
 With Tingting Cheng, Albert Bo Zhao
