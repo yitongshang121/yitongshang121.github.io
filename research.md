@@ -18,7 +18,4 @@ With Jinoug Jeung, Abinash Pati
 
 **Firm-Level Idiosyncratic Uncertainty: Measurement and Effect**
 <br>
-<font size=3><p style="line-height: 1.2;"><p style="text-align:justify; text-justify:inter-ideograph;">This paper measures firm-level idiosyncratic uncertainty by adapting the econometric approach of Jurado, Ludvigson, and Ng (2015) and quantifies its economic effects. Firm-level idiosyncratic uncertainty exhibits substantial heterogeneity across firm size, age, and other characteristics, and differs from typical proxies in the literature. Using local projections, we show that heightened idiosyncratic uncertainty significantly reduces physical capital investment, increases cash holdings, and lowers leverage. Fixed-effects regressions further show that greater idiosyncratic uncertainty is associated with significantly larger managerial EPS forecast errors. This study provides micro-level evidence that firm-specific uncertainty affects corporate decisions and information disclosure behavior.</p></p></font>
-
-<br>
 
