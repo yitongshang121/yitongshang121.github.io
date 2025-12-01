@@ -17,13 +17,11 @@ Welcome! I am currently an MPhil student in the Department of Economics at the C
 
 ## Honors & Awards
 
-- **February 2025:** Sponsorship for UT Austin Global Summer Institute (GSI) overseas program
+- **February 2025:** Sponsorship for UT Austin Global Summer Institute (GSI) Overseas Program from the Faculty of Social Science at CUHK
 - **August 2024:** Postgraduate Studentship, CUHK
-- **July 2024:** Outstanding Paper Award in Applied Economics at SJTU ACEM Doctoral Forum
-- **June 2024:** Undergraduate Finance Scholars Program Distinction
+- **July 2024:** Outstanding Paper Award in Applied Economics at SJTU ACEM Doctoral Forum, Shanghai Jiao Tong University
+- **June 2024:** Undergraduate Finance Scholars Program Distinction, Nankai University
 - **June 2024:** University-Level Outstanding Bachelor Thesis, Nankai University
-- **December 2021:** National Scholarship, Ministry of Education of the People's Republic of China
-
-
+- **December 2021:** National Scholarship from the Ministry of Education of the People's Republic of China
 
 <br>
