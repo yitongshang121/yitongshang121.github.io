@@ -12,8 +12,8 @@ Welcome! I am currently an MPhil student in the Department of Economics at the C
 
 ## Education
 
-- **Starting from Sep 2024:** The Chinese University of Hong Kong, Department of Economics (MPhil-PhD Program in Economics)
-- **Sep 2020 - June 2024:** Nankai University, School of Finance (Finance Scholars Program)
+- **August 2024-Present:** The Chinese University of Hong Kong, Department of Economics (MPhil-PhD Program in Economics)
+- **September 2020 - June 2024:** Nankai University, School of Finance (Finance Scholars Program)
 
 ## Honors & Awards
 
